@@ -1,6 +1,6 @@
-**This is a mockup of a blog using BulmaCSS.**
+**This is a mock up of a blog using BulmaCSS.**
 
-I made a quick mockup of a blog using the free BulmaCSS course from Scrimba and BulmaCSS for the UI design. The course link is below. The course was taught by [Zaydek](https://twitter.com/username_zaydek). BulmaCSS was created by [Jeremy Thomas](https://jgthms.com/).
+I made a quick mock up of a blog using the free BulmaCSS course from Scrimba and BulmaCSS for the UI design. The course link is below. The course was taught by [Zaydek](https://twitter.com/username_zaydek). BulmaCSS was created by [Jeremy Thomas](https://jgthms.com/).
 
 _Technology used:_
 [BulmaCSS](https://bulma.io/) for the responsive web design.
